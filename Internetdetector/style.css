@@ -1,0 +1,30 @@
+
+
+
+.online{
+
+}
+
+section image{
+    width: 25%;
+    border-radius: 10rem;
+}
+
+section{
+    background-color: rgb(35, 34, 34);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+section h1{
+    color: white;
+    font-size: 3rem;
+    font-weight: 600;
+}
+section p{
+    color: white;
+    font-size: 2rem;
+   
+}
